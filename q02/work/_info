@@ -1,0 +1,95 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+Z1 !s12c _opt
+R0
+R1
+R0
+R1
+R0
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 d/mnt/vol_NFS_mentordata/home/DL2019064612/q02
+T_opt
+!s110 1693524065
+VPFaZLlSa>B=ZG[aQUIK711
+Z3 04 7 4 work q02_dut fast 0
+=1-000ae431a4f1-64f12060-bc7c5-129ce9
+R0
+Z4 !s12b OEM100
+Z5 !s124 OEM100
+Z6 o-quiet -auto_acc_if_foreign -work work +acc
+Z7 tCvgOpt 0
+n@_opt
+Z8 OL;O;2023.3;77
+R2
+T_opt1
+!s110 1693533869
+V]19o8TCUJ4:dE270j_1jW1
+R3
+=1-000ae431a4f1-64f146ab-e1498-14c2ea
+R0
+R4
+R5
+R6
+R7
+n@_opt1
+R8
+R2
+vq02_dut
+2q02_dut.sv
+Z9 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z10 !s110 1693533880
+!i10b 1
+!s100 <?2h]@FR`e_Z;INR1G=_A0
+IKzj1^=AZIS?TNzRZbcJPH1
+S1
+R2
+w1693522384
+8q02_dut.sv
+Fq02_dut.sv
+!i122 15
+L0 3 45
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z13 !s108 1693533880.000000
+!s107 q02_dut.sv|
+!s90 -reportprogress|300|-sv|q02_dut.sv|
+!i113 0
+Z14 o-sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vsistema
+2q02.sv
+R9
+R10
+!i10b 1
+!s100 YUS@7N:AH3b?_oCC0E4Yn1
+I7iBZ@kj@z[cLbP5b8VhFd0
+S1
+R2
+w1693522829
+8q02.sv
+Fq02.sv
+!i122 16
+L0 1 12
+R11
+R12
+r1
+!s85 0
+31
+R13
+!s107 q02.sv|
+!s90 -reportprogress|300|-sv|q02.sv|
+!i113 0
+R14
+R7
